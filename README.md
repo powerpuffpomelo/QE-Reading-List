@@ -1,5 +1,5 @@
 # QE Reading List
-A paper list for quality estimation.
+A paper list for machine translation quality estimation.
 
 Welcome to add and criticism.
 
