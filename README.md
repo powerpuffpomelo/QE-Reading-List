@@ -15,7 +15,7 @@ Welcome to add and criticism.
 
 #### WMT 2020
 
-- **[COLING 2020]** TransQuest: Translation Quality Estimation with Cross-lingual Transformers [[paper]](https://arxiv.org/pdf/2011.01536.pdf) [[code]](https://github.com/tharindudr/TransQuest)
+- **[COLING 2020]** TransQuest: Translation Quality Estimation with Cross-lingual Transformers [[paper]](https://arxiv.org/pdf/2011.01536.pdf) [[code]](https://github.com/tharindudr/TransQuest) [[doc]](https://tharindu.co.uk/TransQuest/)
 
 - **[WMT 2020]** TransQuest at WMT2020: Sentence-Level Direct Assessment [[paper]](https://arxiv.org/pdf/2010.05318.pdf)
 
@@ -37,7 +37,9 @@ Welcome to add and criticism.
 
 ## Model Architecture
 
-- **[COLING 2020]** TransQuest: Translation Quality Estimation with Cross-lingual Transformers [[paper]](https://arxiv.org/pdf/2011.01536.pdf) [[code]](https://github.com/tharindudr/TransQuest)
+- **[COLING 2020]** TransQuest: Translation Quality Estimation with Cross-lingual Transformers [[paper]](https://arxiv.org/pdf/2011.01536.pdf) [[code]](https://github.com/tharindudr/TransQuest) [[doc]](https://tharindu.co.uk/TransQuest/)
+
+- **[WMT 2019]** QE BERT: Bilingual BERT Using Multi-task Learning for Neural Quality Estimation [[paper]](https://aclanthology.org/W19-5407.pdf)
 
 - **[AAAI 2019]** “Bilingual Expert” Can Find Translation Errors [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/4599/4477)
 
@@ -68,9 +70,14 @@ Welcome to add and criticism.
 ## Knowledge Distillation QE
 - **[ACL Findings 2021]** Knowledge Distillation for Quality Estimation [[paper]](https://arxiv.org/pdf/2107.00411.pdf)
 
-## (Waiting for Classification)
-- **[WMT 2019]** YiSi - a Unified Semantic MT Quality Evaluation and Estimation Metric for Languages with Different Levels of Available Resources [[paper]](https://aclanthology.org/W19-5358.pdf) [[code]](https://github.com/chikiulo/yisi)
+## QE for Image Captions
 
-- **[WMT 2019]** QE BERT: Bilingual BERT Using Multi-task Learning for Neural Quality Estimation [[paper]](https://aclanthology.org/W19-5407.pdf)
+- **[NAACL 2021]** Quality Estimation for Image Captions Based on Large-scale Human Evaluations [[paper]](https://arxiv.org/pdf/1909.03396.pdf)
+
+## (Waiting for Classification)
 
 - **[COLING 2020]** Intermediate Self-supervised Learning for Machine Translation Quality Estimation [[paper]](https://aclanthology.org/2020.coling-main.385.pdf)
+
+- **[WMT 2019]** YiSi - a Unified Semantic MT Quality Evaluation and Estimation Metric for Languages with Different Levels of Available Resources [[paper]](https://aclanthology.org/W19-5358.pdf) [[code]](https://github.com/chikiulo/yisi)
+
+- **[WMT 2019]** Quality Estimation and Translation Metrics via Pre-trained Word and Sentence Embeddings [[paper]](https://aclanthology.org/W19-5410.pdf)
