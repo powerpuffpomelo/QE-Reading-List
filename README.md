@@ -76,6 +76,8 @@ Welcome to add and criticism.
 
 ## (Waiting for Classification)
 
+- **[WMT 2021]** Ensemble Fine-tuned mBERT for Translation Quality Estimation [[paper]](https://arxiv.org/pdf/2109.03914.pdf)
+
 - **[COLING 2020]** Intermediate Self-supervised Learning for Machine Translation Quality Estimation [[paper]](https://aclanthology.org/2020.coling-main.385.pdf)
 
 - **[WMT 2019]** YiSi - a Unified Semantic MT Quality Evaluation and Estimation Metric for Languages with Different Levels of Available Resources [[paper]](https://aclanthology.org/W19-5358.pdf) [[code]](https://github.com/chikiulo/yisi)
