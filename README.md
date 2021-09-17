@@ -76,6 +76,8 @@ Welcome to add and criticism.
 
 ## (Waiting for Classification)
 
+- **[EMNLP Findings 2021]** Beyond Glass-Box Features: Uncertainty Quantification Enhanced Quality Estimation for Neural Machine Translation [[paper]](https://arxiv.org/pdf/2109.07141.pdf)
+
 - **[WMT 2021]** Ensemble Fine-tuned mBERT for Translation Quality Estimation [[paper]](https://arxiv.org/pdf/2109.03914.pdf)
 
 - **[COLING 2020]** Intermediate Self-supervised Learning for Machine Translation Quality Estimation [[paper]](https://aclanthology.org/2020.coling-main.385.pdf)
