@@ -76,9 +76,17 @@ Welcome to add and criticism.
 
 ## (Waiting for Classification)
 
+- **[EMNLP 2021]** Levenshtein Training for Word-level Quality Estimation [[paper]](https://arxiv.org/pdf/2109.05611.pdf)
+
+- **[EMNLP 2021]** - Classification-based Quality Estimation: Small and Efficient Models for Real-world Applications [[paper]](https://arxiv.org/pdf/2109.08627.pdf)
+
 - **[EMNLP Findings 2021]** Beyond Glass-Box Features: Uncertainty Quantification Enhanced Quality Estimation for Neural Machine Translation [[paper]](https://arxiv.org/pdf/2109.07141.pdf)
 
 - **[WMT 2021]** Ensemble Fine-tuned mBERT for Translation Quality Estimation [[paper]](https://arxiv.org/pdf/2109.03914.pdf)
+
+- **[WMT 2021]** Pushing the Right Buttons: Adversarial Evaluation of Quality Estimation [[paper]](https://arxiv.org/pdf/2109.10859.pdf)
+
+- **[WMT 2021]** The JHU-Microsoft Submission for WMT21 Quality Estimation Shared Task [[paper]](https://arxiv.org/pdf/2109.08724.pdf)
 
 - **[COLING 2020]** Intermediate Self-supervised Learning for Machine Translation Quality Estimation [[paper]](https://aclanthology.org/2020.coling-main.385.pdf)
 
