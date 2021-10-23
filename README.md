@@ -38,7 +38,7 @@ Welcome to add and criticism.
 
 ## Self-supervised & Unsuperised QE
 
-- **[EMNLP 2021]** Self-Supervised Quality Estimation for Machine Translation
+- **[EMNLP 2021]** Self-Supervised Quality Estimation for Machine Translation [[paper]](https://www.researchgate.net/profile/Miradeljan-Muhammad/publication/354219860_Self-Supervised_Quality_Estimation_for_Machine_Translation/links/614961f43c6cb310697fd7f7/Self-Supervised-Quality-Estimation-for-Machine-Translation.pdf) [[code]](https://github.com/THUNLP-MT/SelfSupervisedQE)
 
 - **[COLING 2020]** Intermediate Self-supervised Learning for Machine Translation Quality Estimation [[paper]](https://aclanthology.org/2020.coling-main.385.pdf)
 
