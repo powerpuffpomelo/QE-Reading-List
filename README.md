@@ -101,6 +101,8 @@ Welcome to add and criticism.
 
 - **[WMT 2021]** The JHU-Microsoft Submission for WMT21 Quality Estimation Shared Task [[paper]](https://arxiv.org/pdf/2109.08724.pdf)
 
+- **[WMT 2020]** IST-Unbabel Participation in the WMT20 Quality Estimation Shared Task [[paper]](https://aclanthology.org/2020.wmt-1.119.pdf)
+
 - **[WMT 2019]** YiSi - a Unified Semantic MT Quality Evaluation and Estimation Metric for Languages with Different Levels of Available Resources [[paper]](https://aclanthology.org/W19-5358.pdf) [[code]](https://github.com/chikiulo/yisi)
 
 - **[WMT 2019]** Quality Estimation and Translation Metrics via Pre-trained Word and Sentence Embeddings [[paper]](https://aclanthology.org/W19-5410.pdf)
