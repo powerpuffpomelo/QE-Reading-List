@@ -24,6 +24,8 @@ Welcome to add and criticism.
 
 - **[AAAI 2021]** DirectQE: Direct Pretraining for Machine Translation Quality Estimation [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-10344.CuiQu.pdf)
 
+- **[WMT 2020]** Two-Phase Cross-Lingual Language Model Fine-Tuning for Machine Translation Quality Estimation [[paper]](https://aclanthology.org/2020.wmt-1.118.pdf)
+
 ## Multilingual QE
 
 - **[ACL 2021]** An Exploratory Analysis of Multilingual Word-Level Quality Estimation with Cross-Lingual Transformers [[paper]](https://arxiv.org/pdf/2106.00143.pdf)
@@ -41,6 +43,10 @@ Welcome to add and criticism.
 - **[COLING 2020]** Intermediate Self-supervised Learning for Machine Translation Quality Estimation [[paper]](https://aclanthology.org/2020.coling-main.385.pdf)
 
 - **[TACL 2020]** Unsupervised Quality Estimation for Neural Machine Translation [[paper]](https://aclanthology.org/2020.tacl-1.35.pdf)
+
+## Glass-box 
+
+- **[WMT 2020]** IST-Unbabel Participation in the WMT20 Quality Estimation Shared Task [[paper]](https://aclanthology.org/2020.wmt-1.119.pdf)
 
 ## Efficiency
 
@@ -100,8 +106,6 @@ Welcome to add and criticism.
 - **[WMT 2021]** Pushing the Right Buttons: Adversarial Evaluation of Quality Estimation [[paper]](https://arxiv.org/pdf/2109.10859.pdf)
 
 - **[WMT 2021]** The JHU-Microsoft Submission for WMT21 Quality Estimation Shared Task [[paper]](https://arxiv.org/pdf/2109.08724.pdf)
-
-- **[WMT 2020]** IST-Unbabel Participation in the WMT20 Quality Estimation Shared Task [[paper]](https://aclanthology.org/2020.wmt-1.119.pdf)
 
 - **[WMT 2019]** YiSi - a Unified Semantic MT Quality Evaluation and Estimation Metric for Languages with Different Levels of Available Resources [[paper]](https://aclanthology.org/W19-5358.pdf) [[code]](https://github.com/chikiulo/yisi)
 
