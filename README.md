@@ -34,9 +34,13 @@ Welcome to add and criticism.
 
 ## Multi-task QE
 
+- **[ACL Findings 2022]** Better Quality Estimation for Low Resource Corpus Mining [[paper]](https://arxiv.org/pdf/2203.08259.pdf)
+
 - **[EMNLP 2020]** Translation Quality Estimation by Jointly Learning to Score and Rank [[paper]](https://aclanthology.org/2020.emnlp-main.205.pdf)
 
 ## Self-supervised & Unsuperised QE
+
+- **[ACL 2022]** As Little as Possible, as Much as Necessary: Detecting Over- and Undertranslations with Contrastive Conditioning [[paper]](https://arxiv.org/pdf/2203.01927.pdf) [[code]](https://github.com/ZurichNLP/coverage-contrastive-conditioning)
 
 - **[EMNLP 2021]** Self-Supervised Quality Estimation for Machine Translation [[paper]](https://www.researchgate.net/profile/Miradeljan-Muhammad/publication/354219860_Self-Supervised_Quality_Estimation_for_Machine_Translation/links/614961f43c6cb310697fd7f7/Self-Supervised-Quality-Estimation-for-Machine-Translation.pdf) [[code]](https://github.com/THUNLP-MT/SelfSupervisedQE)
 
@@ -100,6 +104,8 @@ Welcome to add and criticism.
 - **[EMNLP 2021]** deepQuest-py: Large and Distilled Models for Quality Estimation
 
 - **[EMNLP Findings 2021]** Beyond Glass-Box Features: Uncertainty Quantification Enhanced Quality Estimation for Neural Machine Translation [[paper]](https://arxiv.org/pdf/2109.07141.pdf)
+
+- **[EMNLP Workshop 2021]** The Eval4NLP Shared Task on Explainable Quality Estimation: Overview and Results [[paper]](https://arxiv.org/pdf/2110.04392.pdf)
 
 - **[WMT 2021]** Ensemble Fine-tuned mBERT for Translation Quality Estimation [[paper]](https://arxiv.org/pdf/2109.03914.pdf)
 
