@@ -74,6 +74,10 @@ Welcome to add and criticism.
 
 ### WMT QE Winners
 
+#### WMT 2021
+
+- **[WMT 2021]** QEMind: Alibaba's Submission to the WMT21 Quality Estimation Shared Task [[paper]](https://arxiv.org/pdf/2112.14890.pdf)
+
 #### WMT 2020
 
 - **[COLING 2020]** TransQuest: Translation Quality Estimation with Cross-lingual Transformers [[paper]](https://arxiv.org/pdf/2011.01536.pdf) [[code]](https://github.com/tharindudr/TransQuest) [[doc]](https://tharindu.co.uk/TransQuest/)
