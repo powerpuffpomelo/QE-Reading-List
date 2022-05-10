@@ -103,6 +103,8 @@ Welcome to add and criticism.
 
 ## (Waiting for Classification)
 
+- **[ACL 2022]** Bias Mitigation in Machine Translation Quality Estimation
+
 - **[EMNLP 2021]** Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output
 
 - **[EMNLP 2021]** deepQuest-py: Large and Distilled Models for Quality Estimation
